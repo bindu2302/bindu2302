@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 
-- 🌱 I’m currently learning **Spring**
-- 💬 Ask me about **Reactjs, Django**
+- 🌱 I’m currently learning **Spring, Reactjs, Django**
+- 💬 Ask me about **Java, Python**
 - 📫 How to reach me **naarahimabindu@gmail.com**
 - 📫 How to reach me **7013002800**
 <h3 align="left">Connect with me:</h3>
