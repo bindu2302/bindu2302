@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hima Bindu</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<h1 align="center">Hi 👋, I'm Hima Bindu</h1> <h3 align="center">A Passionate Full Stack Developer From India</h3>
+🌟 I am a highly motivated and passionate Full Stack Developer with strong expertise in building end-to-end web applications.
 
 
 - 🌱 I’m currently learning **Spring, Reactjs, Django**
