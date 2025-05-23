@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Spring, Reactjs, Django**
-- 💬 Ask me about **Java, Python, MySQL, MongoDB, Manual Testing, Frontend Technologies(HTML, CSS, JS)**
+- 💬 Ask me about **Java, Python, MySQL, MongoDB, Manual & Automation Testing, Frontend Technologies(HTML, CSS, JS)**
 - 📫 How to reach me **naarahimabindu@gmail.com**
 - 📫 How to reach me **7013002800**
 <h3 align="left">Connect with me:</h3>
