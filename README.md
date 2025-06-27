@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Hima Bindu</h1> <h3 align="center">A Passionate Full Stack Developer From India</h3>
-🌟 I am a highly motivated and passionate Full Stack Developer with strong expertise in building end-to-end web applications.
+<h1 align="center">Hi 👋, I'm Hima Bindu</h1>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
+🌟 I am a highly motivated and detail-oriented <strong>Full Stack Developer & Quality Analyst</strong> with over <strong>1.2 years</strong> of industry experience. I specialize in both backend development and testing, working on real-world projects with scalable architecture and robust API systems.
 
-- 🌱 I’m currently learning **Spring, Reactjs, Django**
-- 💬 Ask me about **Java, Python, MySQL, MongoDB, Manual & Automation Testing, Frontend Technologies(HTML, CSS, JS)**
-- 📫 How to reach me **naarahimabindu@gmail.com**
-- 📫 How to reach me **7013002800**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nara-himabindu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+🌱 I’m currently learning <strong>Spring</strong>, <strong>React.js</strong>, and <strong>Django</strong>  
+💻 I’ve worked with: <strong>Java, Python, MySQL, MongoDB, Cypress, Selenium</strong>  
+💬 Ask me about: <strong>API Development, Manual & Automation Testing, Web Development</strong>  
+🛠️ Tools I use: <strong>VS Code, GitHub, Android Studio, MongoDB Compass, Anaconda, Eclipse</strong>  
+🔁 Familiar with: <strong>Unit, Integration, Regression Testing</strong>  
+📚 Technologies: <strong>HTML, CSS, JS, React, Node.js, Spring Boot, Django</strong>  
+🗂️ Databases: <strong>MySQL, MongoDB, MS SQL Server</strong>  
+📂 Developer Platforms: <strong>GitHub, GitLab</strong>  
+
+📫 How to reach me: <strong>naarahimabindu@gmail.com</strong> | 📞 <strong>+91 7013002800</strong>  
+🔗 Connect with me:  
+<a href="https://www.linkedin.com/in/nara-himabindu/" target="_blank">LinkedIn</a> | 
+<a href="https://github.com/bindu2302" target="_blank">GitHub</a>
+
+✨ I’m passionate about building high-quality software, solving real-world problems, and learning new technologies every day!
+
 
 <p align="left">
 </p>
