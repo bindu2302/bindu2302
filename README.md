@@ -17,7 +17,11 @@
 <a href="https://www.linkedin.com/in/nara-himabindu/" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/bindu2302" target="_blank">GitHub</a>
 
-✨ I’m passionate about building high-quality software, solving real-world problems, and learning new technologies every day!
+✨ I’m passionate about building high-quality software 🛠️💻
+🧩 Solving real-world problems 🌍🔍
+📚 Learning new technologies every day 🚀🧠
+✅ Experience in Quality Assurance 🧪🔧
+👨‍💻 Worked as both Developer and Quality Analyst 🔄🧑‍💼
 
 
 <p align="left">
