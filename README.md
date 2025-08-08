@@ -11,6 +11,7 @@
 📚 Technologies: <strong>HTML, CSS, JS, React, Node.js, Spring Boot, Django</strong>  
 🗂️ Databases: <strong>MySQL, MongoDB, MS SQL Server</strong>  
 📂 Developer Platforms: <strong>GitHub, GitLab</strong>  
+🛠️ Productivity Tools: <strong>MS Excel, MS PowerPoint, MS Word</strong>
 
 📫 How to reach me: <strong>naarahimabindu@gmail.com</strong> | 📞 <strong>+91 7013002800</strong>  
 🔗 Connect with me:  
