@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning <strong>Spring</strong>, <strong>React.js</strong>, and <strong>Django</strong>
 💻 I’ve worked with: <strong>Java, Python, MySQL, MongoDB, Cypress, Selenium</strong> 
-💬 Ask me about: <strong>API Development, Manual & Automation Testing, Web Development</strong>  
+💬 Ask me about: <strong>API Development, Manual & Automation Testing, Web Development</strong>
 🛠️ Tools I use: <strong>VS Code, GitHub, Android Studio, MongoDB Compass, Anaconda, Eclipse</strong>
 🔁 Familiar with: <strong>Unit, Integration, Regression Testing</strong>  
 📚 Technologies: <strong>HTML, CSS, JS, React, Node.js, Spring Boot, Django</strong>  
