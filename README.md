@@ -13,7 +13,7 @@
 📂 Developer Platforms: <strong>GitHub, GitLab</strong>  
 🛠️ Productivity Tools: <strong>MS Excel, MS PowerPoint, MS Word</strong>
 
-📫 How to reach me: <strong>naarahimabindu@gmail.com</strong> | 📞 <strong>+91 7013002800</strong>  
+📫 How to reach me: <strong>naarahimabindu@gmail.com</strong>  
 🔗 Connect with me:  
 <a href="https://www.linkedin.com/in/nara-himabindu/" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/bindu2302" target="_blank">GitHub</a>
