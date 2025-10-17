@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 🌟 I am a highly motivated and detail-oriented <strong>Full Stack Developer & Quality Analyst</strong> with over <strong>1.27 years</strong> of industry experience. I specialize in both backend development and testing, working on real-world projects with scalable architecture and robust API systems.
-
+ 
 🌱 I’m currently learning <strong>Spring</strong>, <strong>React.js</strong>, and <strong>Django</strong>
 💻 I’ve worked with: <strong>Java, Python, MySQL, MongoDB, Cypress, Selenium</strong> 
 💬 Ask me about: <strong>API Development, Manual & Automation Testing, Web Development</strong>
