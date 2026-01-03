@@ -1,28 +1,41 @@
-<h1 align="center">Hi 👋, I'm Hima Bindu</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<h1 align="center">Hi 👋, I'm Hima Bindu Nara</h1>
+<h3 align="center">Full Stack Developer | Quality Analyst | Application Support Engineer</h3>
 
-🌟 I am a highly motivated and detail-oriented <strong>Full Stack Developer & Quality Analyst</strong> with over <strong>1.27 years</strong> of industry experience. I specialize in both backend development and testing, working on real-world projects with scalable architecture and robust API systems.
- 
-🌱 I’m currently learning <strong>Spring</strong>, <strong>React.js</strong>, and <strong>Django</strong>
-💻 I’ve worked with: <strong>Java, Python, MySQL, MongoDB, Cypress, Selenium</strong>
-💬 Ask me about: <strong>API Development, Manual & Automation Testing, Web Development</strong>
-🛠️ Tools I use: <strong>VS Code, GitHub, Android Studio, MongoDB Compass, Anaconda, Eclipse</strong> 
-🔁 Familiar with: <strong>Unit, Integration, Regression Testing</strong>  
-📚 Technologies: <strong>HTML, CSS, JS, React, Node.js, Spring Boot, Django</strong>  
+🌟 I am a highly motivated and detail-oriented <strong>Software Developer & Quality Analyst</strong> with <strong>1.25+ years</strong> of industry experience and currently working as an <strong>Application Support Engineer at Softtek</strong>.  
+I have hands-on experience in backend development, API development, database management, software testing, and production support, contributing to stable and scalable real-world applications.
+
+🌱 I’m currently learning <strong>Spring Boot</strong>, <strong>React.js</strong>, and <strong>Django</strong>  
+💻 I’ve worked with: <strong>Java, Python, JavaScript, MySQL, MongoDB, MS SQL Server</strong>  
+💬 Ask me about: <strong>Backend Development, REST APIs, Manual & Automation Testing, Application Support</strong>  
+🛠️ Tools I use: <strong>VS Code, GitHub, Eclipse, Android Studio, MongoDB Compass, Postman, Anaconda</strong>  
+🔁 Familiar with: <strong>Unit Testing, Integration Testing, Regression Testing</strong>  
+📚 Technologies: <strong>HTML, CSS, JavaScript, React, Node.js, Spring Boot, Django</strong>  
 🗂️ Databases: <strong>MySQL, MongoDB, MS SQL Server</strong>  
 📂 Developer Platforms: <strong>GitHub, GitLab</strong>  
 🛠️ Productivity Tools: <strong>MS Excel, MS PowerPoint, MS Word</strong>
+
+💼 <strong>Professional Experience</strong>  
+• <strong>Application Support Engineer — Softtek (Current)</strong>  
+&nbsp;&nbsp;– Providing application support by analyzing issues, resolving incidents, and ensuring smooth system performance  
+&nbsp;&nbsp;– Collaborating with development, QA, and infrastructure teams to identify root causes and implement fixes  
+&nbsp;&nbsp;– Monitoring applications, handling production issues, and supporting deployments  
+
+• <strong>Software Developer & Quality Analyst — Snovasys</strong>  
+&nbsp;&nbsp;– Worked on backend development for School Champ and Time Champ applications  
+&nbsp;&nbsp;– Developed and tested REST APIs and handled database integration  
+&nbsp;&nbsp;– Performed manual and automation testing to ensure application quality  
 
 📫 How to reach me: <strong>naarahimabindu@gmail.com</strong>  
 🔗 Connect with me:  
 <a href="https://www.linkedin.com/in/nara-himabindu/" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/bindu2302" target="_blank">GitHub</a>
 
-✨ I’m passionate about building high-quality software 🛠️💻
-🧩 Solving real-world problems 🌍🔍
-📚 Learning new technologies every day 🚀🧠
-✅ Experience in Quality Assurance 🧪🔧
-👨‍💻 Worked as both Developer and Quality Analyst 🔄🧑‍💼
+✨ Passionate about building reliable and high-quality software  
+🧩 Solving real-world problems through technology  
+📚 Continuously learning and improving technical skills  
+🧪 Strong background in Quality Assurance  
+👩‍💻 Experience working as both Developer and Quality Analyst
+
 
 
 <p align="left">
