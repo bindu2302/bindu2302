@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hima Bindu Nara</h1>
 <h3 align="center">Full Stack Developer | Quality Analyst | Application Support Engineer</h3>
 
-🌟 I am a highly motivated and detail-oriented <strong>Software Developer & Quality Analyst</strong> with <strong>1.25+ years</strong> of industry experience and currently working as an <strong>Application Support Engineer at Softtek</strong>.  
+🌟 I am a highly motivated and detail-oriented <strong>Software Developer & Quality Analyst</strong> with <strong>2 years</strong> of industry experience and currently working as an <strong>Application Support Engineer at Softtek</strong>.  
 I have hands-on experience in backend development, API development, database management, software testing, and production support, contributing to stable and scalable real-world applications.
 
 🌱 I’m currently learning <strong>Spring Boot</strong>, <strong>React.js</strong>, and <strong>Django</strong>  
